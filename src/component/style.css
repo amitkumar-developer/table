@@ -1,0 +1,14 @@
+.accordin{
+    margin-bottom: 20px;
+}
+.h1_title{
+    width: 90;
+    text-align: center;
+    background-color: #a03c64 ;
+    padding: 10px 5px;
+    border-radius: 50px;
+}
+.table{
+    width: 100% !important;
+    font-weight: bold;
+}
